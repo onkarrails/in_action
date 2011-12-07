@@ -1,0 +1,2 @@
+class Bacon
+end
