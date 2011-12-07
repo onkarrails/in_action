@@ -1,3 +1,25 @@
 // Place all the styles related to the purchases controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+body
+{
+background-color:#d0e4fe;
+}
+h1
+{
+color:green;
+text-align:center;
+}
+h1.serif{font-family:"Times New Roman",Times,serif;}
+
+h1
+{
+background-color:yellow;
+}
+h1.padding
+{
+padding-top:25px;
+padding-bottom:25px;
+padding-right:50px;
+padding-left:50px;
+}
